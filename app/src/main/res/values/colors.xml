@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#009688</color>
+    <color name="purple_500">#009688</color>
+    <color name="purple_700">#009688</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="spinner_text_color">#FFFFFF</color>
+    <color name="spinner_item_background">@color/teal_700</color> <!-- Fondo para el ítem seleccionado (color violeta o cualquier color que te guste) -->
+    <color name="spinner_dropdown_background">@color/purple_700</color><!-- Un color naranja -->
+</resources>

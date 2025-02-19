@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SpinnerTextStyle">
+        <item name="android:textColor">@color/spinner_text_color</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="CustomSpinnerStyle">
+        <item name="android:popupBackground">@drawable/spinner_dropdown_background</item> <!-- Usar el fondo redondeado -->
+    </style>
+
+</resources>
+
+
+
