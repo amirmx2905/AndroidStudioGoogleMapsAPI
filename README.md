@@ -1,5 +1,5 @@
 # GoogleMapsAPITest
-This is a DEMO project to use googleMaps and to PIN
+This is a DEMO project to use googleMaps and to PIN certain locations the user may want to add a PIN
 
 ## Remember to use your own APIkey from GoogleCloudConsole
 On the file AndroidManifest.xml replace the value from meta-data with your key
